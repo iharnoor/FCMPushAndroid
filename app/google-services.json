@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "790321632528",
+    "firebase_url": "https://fcmandroid-afb82.firebaseio.com",
+    "project_id": "fcmandroid-afb82",
+    "storage_bucket": "fcmandroid-afb82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790321632528:android:0f0d5df6d3c8ab09",
+        "android_client_info": {
+          "package_name": "com.example.fcmandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790321632528-qnme5iev1h38a0m10e5agt8nj98lm5qs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcmandroid",
+            "certificate_hash": "87835f4afb435cc8356b5671a9de97c01e8fac32"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3a63ECvglovwE0bxDlX8xV7LkHcc41_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790321632528-fmb16tfo1ipnjhgjq0emupkthn3v36ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
